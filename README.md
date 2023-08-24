@@ -1,5 +1,5 @@
 ### Hello! 👋
-##### My name is Matheus Campos and I am passionate about technology and I decided to follow the path of programming.
+#### Name: Matheus Campos
 #### Age: 18
 #### Living in: Belo Horizonte - MG, Brazil
 #### Studying: Systems Analysis and Development - PUC
