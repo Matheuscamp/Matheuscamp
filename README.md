@@ -3,9 +3,6 @@
 **`Software Engineering Student at PUC`**
 
 My name is Matheus Campos, I am 20 years old and I am from Minas Gerais, Brazil. I am currently studying Software Engineering and I am very interested in technology and programming, always looking to improve my skills and learn more about software development.
-
----
-
 #### Stack:
 
 <div style="display: inline_block">
